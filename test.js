@@ -8,6 +8,6 @@ describe("Simple Math Test", () => {
         assert.equal(3 * 3, 9);
     });
     it("should return 99", () => {
-        assert.equal(3 * 3, 99);
+        assert.equal(33 * 3, 99);
     });
 })
